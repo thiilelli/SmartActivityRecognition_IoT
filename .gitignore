@@ -1,0 +1,5 @@
+données_filtrées.xlsx
+best_model_weights.pth
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
